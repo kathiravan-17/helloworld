@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/kathiravan/.cache/upstart/ssh-agent.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/indicator-sound.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/dbus.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/unity-panel-service.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/unity7.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/update-notifier-crash-_var_crash__lib_systemd_systemd-logind.0.crash.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/gpg-agent.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/unity-settings-daemon.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/update-notifier-cds.log" 2021-5-3-10:59:34
+"/home/kathiravan/.cache/upstart/window-stack-bridge.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/update-notifier-release.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/gnome-keyring-ssh.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/upstart-event-bridge.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/hud.log" 2021-5-4-19:45:31
+"/home/kathiravan/.cache/upstart/unity-panel-service-lockscreen.log" 2021-5-4-19:45:31
